@@ -25,6 +25,7 @@ Problem solving
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
