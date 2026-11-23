@@ -7,6 +7,7 @@ Problem solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Hash Table
@@ -35,4 +36,20 @@ Problem solving
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
