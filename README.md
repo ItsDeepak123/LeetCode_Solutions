@@ -10,6 +10,7 @@ Problem solving
 | [1352-product-of-the-last-k-numbers](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Problem solving
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -52,4 +54,16 @@ Problem solving
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
