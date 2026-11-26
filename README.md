@@ -43,6 +43,7 @@ Problem solving
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [3360-stone-removal-game](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
@@ -84,4 +85,8 @@ Problem solving
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3934-smallest-unique-subarray) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/ItsDeepak123/LeetCode_Solutions/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
